@@ -1,5 +1,4 @@
 %GB comments
-ssrinivasan4
 1. 70 incorrect plots. Should be generated like this:
 sol = ode23(@repressilator,[0 200], [1, 0,0]);
 hold on
